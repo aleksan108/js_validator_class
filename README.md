@@ -1,0 +1,1 @@
+# js_validator_class
